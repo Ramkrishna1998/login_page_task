@@ -1,7 +1,4 @@
 import react from 'react';
-import Header from '../Header/header';
-import Sidebar from '../Sidebar/Sidebar';
-import DashboardView from './dashboardView';
 function Dashboard() {
     return (
         <header className="bg-blue-600 shadow-md">
